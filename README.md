@@ -4,7 +4,7 @@
 
 ## Juch 👋
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c7ef325-905f-4b18-accc-dcafef21a59e/deploy-status)](https://vmert.com)
+![example workflow name](https://github.com/ju-ch/blog/workflows/Sync-Pages/badge.svg)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1235dd06-ddab-45f7-9931-45bf8178dced/deploy-status)](https://blog.vmert.com)
 
