@@ -6,6 +6,4 @@ Hello World! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/H
 
 ![example workflow name](https://github.com/ju-ch/blog/workflows/Sync-Pages/badge.svg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1235dd06-ddab-45f7-9931-45bf8178dced/deploy-status)](https://blog.vmert.com)
-
 Nothing is difficult to the man who will try.
